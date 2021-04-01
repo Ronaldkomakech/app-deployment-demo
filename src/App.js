@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deployed by Komakech Ronald
+          Deployed by Naldo Komatech
         </a>
       </header>
     </div>
